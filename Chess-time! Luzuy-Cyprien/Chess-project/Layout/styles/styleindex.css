@@ -1,0 +1,63 @@
+body {
+    background-color: #F4F7FA;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+#title {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #34364C;
+}
+
+.background {
+    /* position: absolute;
+    bottom: auto; */
+    width: 100%;
+}
+
+.account-logo {
+    position: absolute;
+    right: 0;
+    margin-right: 10px;
+    width: 50px;
+}
+
+a {
+    text-decoration: none;
+    color: #34364C;
+}
+  
+  a:hover {
+    text-decoration: underline;
+    color: #34364C;
+}
+
+/* .form1 {
+    box-sizing: border-box;
+    position: absolute;
+    width: 318px;
+    height: 50px;
+    left: 561px;
+    top: 182px;
+
+    background: #FFFFFF;
+    border: 1px solid #E24429;
+} */
+
+.subject1 {
+    position: absolute;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    top: 25%;
+}
+
+.forum {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#p {
+    display: absolute;
+    text-align: center;
+}

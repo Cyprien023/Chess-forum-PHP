@@ -1,0 +1,27 @@
+a {
+  text-decoration: none;
+  color: #34364C;
+}
+  
+a:hover {
+  text-decoration: underline;
+  color: #7B61FF;
+}
+
+footer {
+  position: fixed;
+  width: 100vw;
+  bottom: 0;
+  text-align: center;
+  background-color: #34364C;
+  padding: 15px;
+  color: white;
+}
+
+footer a {
+  color: #7B61FF;
+}
+
+footer p {
+  margin: 0;
+}
